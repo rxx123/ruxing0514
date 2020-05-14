@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\projects\\ruxing0514\\ruxing0514.csproj": {}
+    "F:\\GIT\\ruxing0514\\ruxing0514.csproj": {}
   },
   "projects": {
-    "F:\\projects\\ruxing0514\\ruxing0514.csproj": {
+    "F:\\GIT\\ruxing0514\\ruxing0514.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\projects\\ruxing0514\\ruxing0514.csproj",
+        "projectUniqueName": "F:\\GIT\\ruxing0514\\ruxing0514.csproj",
         "projectName": "ruxing0514",
-        "projectPath": "F:\\projects\\ruxing0514\\ruxing0514.csproj",
+        "projectPath": "F:\\GIT\\ruxing0514\\ruxing0514.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\projects\\ruxing0514\\obj\\",
+        "outputPath": "F:\\GIT\\ruxing0514\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

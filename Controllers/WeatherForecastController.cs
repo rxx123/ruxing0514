@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace ruxing0514.Controllers
 {
     /// <summary>
-    /// 天气管理
+    /// 天气管理控制器
     /// </summary>
     [ApiController]
     [Route("[controller]")]
