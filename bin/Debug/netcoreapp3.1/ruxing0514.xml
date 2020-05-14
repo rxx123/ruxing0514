@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ruxing0514</name>
+    </assembly>
+    <members>
+        <member name="T:ruxing0514.Controllers.WeatherForecastController">
+            <summary>
+            天气管理
+            </summary>
+        </member>
+        <member name="M:ruxing0514.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气信息
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
